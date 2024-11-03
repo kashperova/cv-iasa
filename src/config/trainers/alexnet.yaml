@@ -1,5 +1,5 @@
 random_seed: 42
 grad_norm: 1.0
-epochs: 20
+epochs: 5
 train_batch_size: 32
 eval_batch_size: 64
