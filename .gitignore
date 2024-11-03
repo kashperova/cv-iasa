@@ -1,0 +1,11 @@
+**/__pycache__/
+*.pyc
+
+.idea/vcs.xml
+**/.idea/
+
+**/notebooks/.ipynb_checkpoints
+**/notebooks/iframe_figures
+**/notebooks/data
+**/notebooks/wandb
+./checkpoints
